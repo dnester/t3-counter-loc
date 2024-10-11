@@ -1,0 +1,2 @@
+https://github.com/WebGoat/groovygoat.git
+https://github.com/WebGoat/WebGoat.git
